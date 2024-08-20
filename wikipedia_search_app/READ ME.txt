@@ -1,0 +1,2 @@
+Arama kısmına girdiğiniz kelimeyi Wikipedia üzerinde arayıp kelime ile ilgili yazıları ekrana getiren uygulama.
+
